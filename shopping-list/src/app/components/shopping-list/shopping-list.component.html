@@ -1,0 +1,8 @@
+<div class="mat-toolbar mat-toolbar-single-row">
+    <h2>Shopping List Items</h2>
+</div>
+<ul>
+    <li *ngFor="let item of listItems">
+        <app-list-item [listItem]="item" (removeShoppingCartItem)="removeShoppingCartItem.emit($event)"></app-list-item>
+    </li>
+</ul>

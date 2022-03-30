@@ -1,0 +1,214 @@
+﻿++Solution 'ShoppingList' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ShoppingList.sln
+++ShoppingList
+i:{00000000-0000-0000-0000-000000000000}:ShoppingList
+++Connected Services 
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:>199
+++Dependencies
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:>198
+++Properties
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\properties\
+++launchSettings.json
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\properties\launchsettings.json
+++Data
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\
+++Abstractions
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\abstractions\
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\abstractions\
+++Parts
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\parts\
+++IDescriptionPart.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\parts\idescriptionpart.cs
+++IFirstnamePart.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\parts\ifirstnamepart.cs
+++IGuidIdPart.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\parts\iguididpart.cs
+++ILastnamePart.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\parts\ilastnamepart.cs
+++INamePart.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\parts\inamepart.cs
+++IPricePart.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\parts\ipricepart.cs
+++IUsernamePart.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\parts\iusernamepart.cs
+++GuidIdEntity.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\guididentity.cs
+++ICartItem.cs
+++IProduct.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\iproduct.cs
+++IShoppingCart.cs
+++IUser.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\iuser.cs
+++Entity
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\entity\
+++CartItem.cs
+++Product.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\entity\product.cs
+++ShoppingCart.cs
+++User.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\entity\user.cs
+++ShoppingListContext.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\shoppinglistcontext.cs
+++Exceptions
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\exceptions\
+++ItemNotFoundException.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\exceptions\itemnotfoundexception.cs
+++Extensions
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\extensions\
+++StartupExtensions.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\extensions\startupextensions.cs
+++Rest
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\
+++Controllers
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\controllers\
+++ProductController.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\controllers\productcontroller.cs
+++ShoppingCartController.cs
+++UserController.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\controllers\usercontroller.cs
+++ViewModel
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\viewmodel\
+++CartItemViewModel.cs
+++ProductViewModel.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\viewmodel\productviewmodel.cs
+++ShoppingCartViewModel.cs
+++UserViewModel.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\viewmodel\userviewmodel.cs
+++Services
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\
+++CRUDServiceBase.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\abstractions\crudservicebase.cs
+++ICartItemService.cs
+++ICRUDService.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\abstractions\icrudservice.cs
+++IMapper.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\abstractions\imapper.cs
+++IProductService.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\abstractions\iproductservice.cs
+++IShoppingCartService.cs
+++IUserService.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\abstractions\iuserservice.cs
+++CartItemService.cs
+++Mapper.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\mapper.cs
+++ProductService.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\productservice.cs
+++ShoppingCartService.cs
+++UserService.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\userservice.cs
+++appsettings.json
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\appsettings.json
+++appsettings.Development.json
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\appsettings.development.json
+++Program.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\program.cs
+++No service dependencies discovered
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:>200
+++Analyzers
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:analyzers
+++Frameworks
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:frameworks
+++Packages
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:packages
+++Microsoft.AspNetCore.Analyzers
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\microsoft.netcore.app
+++EntityFramework (6.4.4)
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:>212
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:>390
+++Swashbuckle.AspNetCore (6.2.3)
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:>211
+++Microsoft.EntityFrameworkCore.Sqlite (6.0.3)
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:>404
+++NewFolder
+++Constants
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\constants\
+++Constants.cs
+++Configuration
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\configuration\
+++DatabaseOptions.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\configuration\databaseoptions.cs
+++DbProvider.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\constants\dbprovider.cs
+++MySql.EntityFrameworkCore (6.0.0)
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:>417
+++.editorconfig
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\.editorconfig
+i:{2e241b90-1328-452f-bcaf-d2900fe7b315}:C:\Users\Gabriel Perez\git\ShoppingList\ShoppingList\.editorconfig
+++Solution Items
+i:{00000000-0000-0000-0000-000000000000}:Solution Items
+++ICartItemViewModel.cs
+++IProductViewModel.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\abstractions\iproductviewmodel.cs
+++IShoppingCartViewModel.cs
+++IUserViewModel.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\abstractions\iuserviewmodel.cs
+++Migrations
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\migrations\
+++20220327190405_Initial.cs
+++ShoppingListContextModelSnapshot.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\migrations\shoppinglistcontextmodelsnapshot.cs
+++20220327190405_Initial.Designer.cs
+++shoppinglist.db
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\sqlite\shoppinglist.db
+++shoppinglist.db-shm
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\sqlite\shoppinglist.db-shm
+++shoppinglist.db-wal
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\sqlite\shoppinglist.db-wal
+++SqlLite
+++SqLite
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\sqlite\
+++IListItemViewModel.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\abstractions\ilistitemviewmodel.cs
+++ListItemViewModel.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\viewmodel\listitemviewmodel.cs
+++ShoppingListViewModel.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\viewmodel\shoppinglistviewmodel.cs
+++IShoppingListService.cs
+++ListItemService.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\listitemservice.cs
+++ShoppingLstService.cs
+++ShoppingListService.cs
+++IShoppingList.cs
+++IListItem.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\abstractions\ilistitem.cs
+++ShoppingList.cs
+++ListItem.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\data\entity\listitem.cs
+++IListItemService.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\services\abstractions\ilistitemservice.cs
+++ShoppingListController.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\controllers\shoppinglistcontroller.cs
+++IShoppingListViewModel.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\rest\abstractions\ishoppinglistviewmodel.cs
+++20220329143031_Initial.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\migrations\20220329143031_initial.cs
+++20220329143031_Initial.Designer.cs
+i:{81941caf-3a3c-43ef-b691-2c182e9dd9b5}:c:\users\gabriel perez\git\shoppinglist\shoppinglist\shoppinglist\migrations\20220329143031_initial.designer.cs

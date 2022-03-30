@@ -1,0 +1,12 @@
+<div class="shopping-list-item">
+    <img src="{{listItem.product.imageUrl}}" alt="{{listItem.product.imageAlt}}" title="{{listItem.product.imageAlt}}">
+    <div class="padding-left-8" style="flex: 1 1 auto;">
+        <h3>{{listItem.product.name}}</h3>
+        <p>{{listItem.product.description}}</p>
+    </div>
+    <div>
+        <button mat-flat-button aria-label="remove from shopping list" (click)="removeShoppingCartItem.emit(listItem.id)">
+            <mat-icon>remove_shopping_cart</mat-icon>
+        </button>
+    </div>
+</div>

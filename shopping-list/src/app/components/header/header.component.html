@@ -1,0 +1,15 @@
+
+<mat-toolbar >
+    <h1 class="padding-left-16">{{title}}</h1>
+
+    <span class="header-spacer"></span>
+
+    <!-- Buttons -->
+    <div class="padding-right-16">
+        <button mat-raised-button color="primary" (click)="toggleShoppingList.emit()"
+                matBadge="{{shoppingListCount}}" matBadgePosition="before" 
+                matBadgeColor="accent" aria-label="Shopping list">
+            <mat-icon>shopping_cart</mat-icon>
+        </button>
+    </div>
+</mat-toolbar>

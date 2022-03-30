@@ -1,0 +1,13 @@
+
+<div *ngIf="!initialLoad" style="height: 100%">
+  <app-header (toggleShoppingList)="drawer.toggle()" [title]="title" [shoppingListCount]="shoppingList.length"></app-header>
+
+  <mat-drawer-container autosize>
+    <mat-drawer #drawer mode="side" position="end">
+      <app-shopping-list [listItems]="shoppingList" (removeShoppingCartItem)="removeShoppingCartItem($event)"></app-shopping-list>
+    </mat-drawer>
+
+    <app-products [products]="products" (addShoppingCartItem)="addShoppingCartItem($event)"></app-products>
+
+  </mat-drawer-container>
+</div>

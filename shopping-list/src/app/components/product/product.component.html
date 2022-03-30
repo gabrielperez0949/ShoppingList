@@ -1,0 +1,16 @@
+<mat-card class="product-card">
+    <mat-card-title-group>
+        <img mat-card-image src="{{product.imageUrl}}" alt="{{product.imageAlt}}" title="{{product.imageAlt}}">
+        <div class="padding-left-16">
+            <mat-card-title>{{product.name}}</mat-card-title>
+            <mat-card-subtitle>{{product.description}}</mat-card-subtitle>
+        </div>
+    </mat-card-title-group>
+    <mat-card-actions>
+        <div class="padding-right-16">
+            <button mat-flat-button aria-label="Add to shopping list" (click)="addShoppingCartItem.emit(product.id)">
+                <mat-icon>add_shopping_cart</mat-icon>
+            </button>
+        </div>
+    </mat-card-actions>
+</mat-card>

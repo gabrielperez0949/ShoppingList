@@ -1,0 +1,9 @@
+
+
+<div class="products-wrapper">
+    <p>Select from the list of products below:</p>
+
+    <div *ngFor="let product of products">
+        <app-product [product]="product" (addShoppingCartItem)="addShoppingCartItem.emit($event)"></app-product>
+    </div>
+</div>
