@@ -20,7 +20,7 @@ public abstract class CRUDServiceBase<T> : ICRUDService<T>
 
     private readonly ILogger<CRUDServiceBase<T>> _logger;
 
-    private readonly bool _eagerFetch = true;
+    protected bool _eagerFetch = true;
 
     public virtual async Task<bool> CreateAsync(T item)
     {

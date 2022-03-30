@@ -9,6 +9,10 @@ public class ShoppingListContext : DbContext
     {
     }
 
+    public ShoppingListContext()
+    {
+    }
+
     public DbSet<ListItem> ListItems { get; set; }
 
     public DbSet<User> Users { get; set; }
